@@ -24,7 +24,9 @@
 <br/>
 애완동물 : 이미뇽(도마뱀)
 <br/>
-
+<h3 align="center"> 미뇽이 자랑 </h3>
+<p align="center">
+	
 <h3 align="center"> Tech Stack </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
