@@ -1,24 +1,12 @@
-## Hi there 👋
+## 이가영을 소개합니다!
+[![header](https://capsule-render.vercel.app/api?type=venom)(https://capsule-render.vercel.app/api?color=auto)(https://capsule-render.vercel.app/api?color=gradient&customColorList=0,2,2,5,30)(https://capsule-render.vercel.app/api?type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical)(https://capsule-render.vercel.app/api?section=footer)(https://capsule-render.vercel.app/api?type=slice&reversal=true&color=gradient)(https://capsule-render.vercel.app/api?text=I am GAYOUNG!)(https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20asdf%20&height=300&fontSize=100&textBg=true)(https://capsule-render.vercel.app/api?text=capsule_render&animation=twinkling)]
 
-<!--
-**gayounglee-0417/gayounglee-0417** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align=center>
 	
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgayounglee-0417)](https://hits.seeyoufarm.com) 
 	
   </div>
+# [기본정보]
 -생년월일 : 2004/04/17
 <br/>
 -이름 : 이가영
