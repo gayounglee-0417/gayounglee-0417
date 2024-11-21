@@ -40,13 +40,13 @@
 <p align="center">
 
 [![Static Badge](https://img.shields.io/badge/github-black?style=flat-square&logo=github&logoColor=white&logoSize=auto&link=https%3A%2F%2Fgithub.com%2Fgayounglee-0417)
-](https://github.com/gayounglee-0417)&nbsp
+](https://github.com/gayounglee-0417)</a>&nbsp
 	
 
-[![Static Badge](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&logoSize=auto&link=https%3A%2F%2Fwww.instagram.com%2Fzf.rkdud_e%3Figsh%3DMXRxbnZndHE1Zmp0dQ%3D%3D)](https://www.instagram.com/zf.rkdud_e?igsh=MXRxbnZndHE1Zmp0dQ==)&nbsp
+[![Static Badge](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&logoSize=auto&link=https%3A%2F%2Fwww.instagram.com%2Fzf.rkdud_e%3Figsh%3DMXRxbnZndHE1Zmp0dQ%3D%3D)](https://www.instagram.com/zf.rkdud_e?igsh=MXRxbnZndHE1Zmp0dQ==)</a>&nbsp
 	
   [![Static Badge](https://img.shields.io/badge/gmail-d14836?style=flat-square&logo=gmail&logoColor=white&logoSize=auto&link=mailto%3Arobotsally0417%40gmail.com)
-](mailto:robotsally0417@gmail.com)&nbsp
+](mailto:robotsally0417@gmail.com)</a>&nbsp
 
 <br/>
 
