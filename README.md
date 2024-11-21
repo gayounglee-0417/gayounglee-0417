@@ -5,7 +5,8 @@
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgayounglee-0417)](https://hits.seeyoufarm.com) 
 	
   </div>
-###기본정보
+<h3 align="center"> 기본정보 </h3>
+<p align="center">
 <br/>
 -생년월일 : 2004/04/17
 <br/>
@@ -35,7 +36,7 @@
 </p>
 
 
-<h3 align="center"> Connect with me </h3>
+<h3 align="center"> 연락망 </h3>
 <p align="center">
 
 [![Static Badge](https://img.shields.io/badge/github-black?style=flat-square&logo=github&logoColor=white&logoSize=auto&link=https%3A%2F%2Fgithub.com%2Fgayounglee-0417)
