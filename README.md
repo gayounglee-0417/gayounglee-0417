@@ -56,7 +56,7 @@
 ](mailto:robotsally0417@gmail.com)
 
 <br/>
-[![trophy](https://github-profile-trophy.vercel.app/?username=gayounglee-0417&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=gayounglee-0417&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/>
 
