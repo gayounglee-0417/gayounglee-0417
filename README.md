@@ -1,4 +1,4 @@
-## 이가영을 소개합니다!
+##                           이가영을 소개합니다!
 ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=250&section=header&text=I%20AM%20GAYOUNG!&fontcolor=black&fontSize=90)
 <div align=center>
 	
