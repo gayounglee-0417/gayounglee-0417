@@ -36,7 +36,7 @@
 </p>
 
 
-###연락망 :
+##연락망
 
 [![Static Badge](https://img.shields.io/badge/github-black?style=flat-square&logo=github&logoColor=white&logoSize=auto&link=https%3A%2F%2Fgithub.com%2Fgayounglee-0417)
 ](https://github.com/gayounglee-0417)
