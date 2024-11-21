@@ -20,10 +20,20 @@ Here are some ideas to get you started:
 	
   </div>
 -생년월일 : 2004/04/17
+<br/>
 -이름 : 이가영
+<br/>
 -혈액형 : A형
+<br/>
 -MBTI : INTP
+<br/>
+-직업 : 학생(중앙대학교 예술공학부 재학 중)
+<br/>
 -취미 : 맛짐 탐방, 그림 그리기, 게임하기, 익스트림 스포츠
+<br/>
+-최애 음식 : 김치찌개
+<br/>
+애완동물 : 이미뇽(도마뱀)
 
 [![Static Badge](https://img.shields.io/badge/github-black?style=flat-square&logo=github&logoColor=white&logoSize=auto&link=https%3A%2F%2Fgithub.com%2Fgayounglee-0417)
 ](https://github.com/gayounglee-0417)
