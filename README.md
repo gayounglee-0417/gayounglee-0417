@@ -1,5 +1,5 @@
 ## 이가영을 소개합니다!
-[![header](https://capsule-render.vercel.app/api?type=venom)(https://capsule-render.vercel.app/api?color=auto)(https://capsule-render.vercel.app/api?color=gradient&customColorList=0,2,2,5,30)(https://capsule-render.vercel.app/api?type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical)(https://capsule-render.vercel.app/api?section=footer)(https://capsule-render.vercel.app/api?type=slice&reversal=true&color=gradient)(https://capsule-render.vercel.app/api?text=I am GAYOUNG!)(https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20asdf%20&height=300&fontSize=100&textBg=true)(https://capsule-render.vercel.app/api?text=capsule_render&animation=twinkling)]
+[![header](https://capsule-render.vercel.app/api?type=venom)(https://capsule-render.vercel.app/api?color=auto)(https://capsule-render.vercel.app/api?text=I am GAYOUNG!)(https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20asdf%20&height=300&fontSize=100&textBg=true)(https://capsule-render.vercel.app/api?text=capsule_render&animation=twinkling)]
 
 <div align=center>
 	
