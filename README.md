@@ -23,6 +23,7 @@
 <br/>
 애완동물 : 이미뇽(도마뱀)
 <br/>
+
 <h3 align="center"> Tech Stack </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
@@ -34,7 +35,8 @@
 </p>
 
 
-### Connect with me:
+<h3 align="center"> Connect with me </h3>
+<p align="center">
 
 [![Static Badge](https://img.shields.io/badge/github-black?style=flat-square&logo=github&logoColor=white&logoSize=auto&link=https%3A%2F%2Fgithub.com%2Fgayounglee-0417)
 ](https://github.com/gayounglee-0417)
