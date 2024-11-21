@@ -5,7 +5,7 @@
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgayounglee-0417)](https://hits.seeyoufarm.com) 
 	
   </div>
-###[기본정보]
+###기본정보
 <br/>
 -생년월일 : 2004/04/17
 <br/>
