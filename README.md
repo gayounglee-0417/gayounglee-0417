@@ -59,6 +59,7 @@
   </div>
 <h3 align="center"> 🏆✨ </h3>
 <p align="center">
+	
 [![trophy](https://github-profile-trophy.vercel.app/?username=gayounglee-0417&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/>
