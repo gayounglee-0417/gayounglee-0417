@@ -1,5 +1,5 @@
 ## 이가영을 소개합니다!
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=250&section=header&text=I%am%GAYOUNG!&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=250&section=header&text=I%20AM%20GAYOUNG!&fontcolor=black&fontSize=90)
 <div align=center>
 	
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgayounglee-0417)](https://hits.seeyoufarm.com) 
