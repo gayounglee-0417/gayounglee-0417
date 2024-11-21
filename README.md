@@ -30,7 +30,7 @@
 <br/>
 <img src=""https://ibb.co/SrD9NY5"">
 <br/>
-<img src=""https://ibb.co/GPbvM3p"">
+<img src=""<a href="https://ibb.co/GPbvM3p"><img src="https://i.ibb.co/Qm1FHjQ/3.jpg" alt="3" border="0"></a>"">
 <br/>
 	
 <h3 align="center"> Tech Stack </h3>
